@@ -3,3 +3,4 @@
 # Salvando modificações
 # comando git push
 # comando pull 
+# comando fetch
